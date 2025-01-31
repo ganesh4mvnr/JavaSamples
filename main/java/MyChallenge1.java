@@ -7,6 +7,7 @@ public class MyChallenge1 {
     public static void main(String[] args) {
         int[] numbers = {24, 26, 29, 30, 34, 38, 40, 3, 4, 9};
         int[] num2 = new int[0];
+        // Test
         Map<Character, Character> charMap = Map.of(
                 '{', '}',
                 '[', ']',
